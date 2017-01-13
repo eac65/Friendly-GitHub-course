@@ -9,3 +9,6 @@ Just me.
 
 ## Setup & Requirements
 An internet connection and a computer.
+
+## Additional words
+words words words words words words words words words words words words words 
